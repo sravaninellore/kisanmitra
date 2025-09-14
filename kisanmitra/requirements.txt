@@ -3,4 +3,4 @@ openai
 groq
 requests
 gTTS
-
+load_dotenv
